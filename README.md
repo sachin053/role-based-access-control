@@ -1,4 +1,4 @@
-# Role Based Access Control (...still in dev mode...)
+# Role Based Access Control 
 
 This is a Role Based Access Control application using Nodejs, Express, Passport Js, etc.
 You can use this application as the starting point for whatever project you are going to build which needs authentication and authorization.
@@ -53,11 +53,7 @@ Step 6: Start the app by
 npm start
 ```
 
-## Author
-
-- [**Truly Mittal**](https://trulymittal.com)
-
-## Contribute
+## contributor
 
 You can fork this repo and send me a PR.
 
